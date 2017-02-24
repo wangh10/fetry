@@ -4,7 +4,9 @@ A golang function retry library.
 
 ## Install
 
-* go get github.com/wangh10/fetry
+```
+go get github.com/wangh10/fetry
+```
 
 ### Usage
 
